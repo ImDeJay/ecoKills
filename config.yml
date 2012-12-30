@@ -1,0 +1,10 @@
+#ecoKills config
+
+# The lowest amount of money you'd like the player to receive
+start: 10
+
+# The highest amount of money you'd like the player to receive.
+end: 50
+
+# The message send to the player when they kill another player and recieve money.
+message: "&bYou have been awarded $<reward> for killing <player>."
